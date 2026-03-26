@@ -10,7 +10,7 @@ export default function App() {
       id: 1,
       name: "Student Management System",
       description: "A full-stack student record management app built using MERN stack.",
-      live: "#",
+      live: "https://chic-cobbler-298e53.netlify.app/",
     },
     {
       id: 2,
