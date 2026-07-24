@@ -14,9 +14,9 @@ export default function App() {
     },
     {
       id: 2,
-      name: "MyGram",
-      description: "A social media style React application.",
-      live: "https://mygram-88p6.vercel.app/",
+      name: "ShopCart",
+      description: "A  E-com style React application.",
+      live: "https://shopcart-web.netlify.app/",
     },
     {
       id: 3,
